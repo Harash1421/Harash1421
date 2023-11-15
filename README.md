@@ -4,7 +4,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Application Development
 ------------------------------
 
-Hello and welcome to my Github profile! I am a highly motivated Mobile Application Developer and Back-End Developer with a burning passion for taking unique, innovative ideas and translating them into successful digital applications that truly deliver on performance, scalability, and security. 📱 Mobile Application Development: 🔹 Languages & Frameworks: My mobile application development prowess spans Kotlin for Android, Swift for iOS, and Dart for cross-platform solutions via Flutter. • Android Development: With Kotlin, Jetpack Compose, and XML, I've crafted Android applications that seamlessly align with Material Design principles. • iOS Development: Swift, SwiftUI, and UIKit allow me to create iOS applications that capitalize on Apple's cutting-edge ecosystem. • Cross-Platform: My work with Flutter ensures efficient cross-platform solutions with native-like performance. 🔹 API Integration & Notifications: I'm adept at API integrations using libraries such as Volley, Retrofit, URLSession, Alamofire, HTTP, and Dio. Notifications are handled with finesse, using tools like Firebase Push Notifications, OneSignal, and Apple APNs. 🔹 Integrations & Advanced Features: Beyond basic app development, I integrate services like Google Maps, Apple Maps, AdMob, Facebook SDK, Google Analytics, Google Cloud Platform, and payment gateways like Stripe, PayPal, and Braintree. Plus, I've integrated AI, notably ChatGPT, for dynamic content. 🔹 Deployment: Deploying to the Google Play Store and Apple App Store is second nature to me, ensuring applications are guideline-compliant and optimized for visibility. 🖥️ Back-End Development: 🔹 Programming Languages: With PHP and JavaScript, I construct server-side solutions using Express for Node.js. 🔹 Security: Data security is paramount. I use JWT tokens and advanced password hashing to ensure top-tier security. 🔹 Database Management: MySQL and MongoDB are my forte, designing efficient, scalable database systems. 🔹 API Development: I specialize in RESTful and GraphQL APIs, employing JSON for smooth data interchange. 🔹 Platforms & Hosting: Firebase and Parse Platform empower me with functionalities like real-time databases and cloud messaging. I'm also adept at domain and cPanel management, ensuring a smooth transition from development to deployment.
+Hello and welcome to my Github profile! I am a highly motivated Mobile Application Developer and Back-End Developer with a burning passion for taking unique, innovative ideas and translating them into successful digital applications that truly deliver on performance, scalability, and security.
+
+📱 Mobile Application Development:
+🔹 Languages & Frameworks: My mobile application development prowess spans Kotlin for Android, Swift for iOS, and Dart for cross-platform solutions via Flutter.
+• Android Development: With Kotlin, Jetpack Compose, and XML, I've crafted Android applications that seamlessly align with Material Design principles.
+• iOS Development: Swift, SwiftUI, and UIKit allow me to create iOS applications that capitalize on Apple's cutting-edge ecosystem.
+• Cross-Platform: My work with Flutter ensures efficient cross-platform solutions with native-like performance.
+🔹 API Integration & Notifications: I'm adept at API integrations using libraries such as Volley, Retrofit, URLSession, Alamofire, HTTP, and Dio. Notifications are handled with finesse, using tools like Firebase Push Notifications, OneSignal, and Apple APNs.
+🔹 Integrations & Advanced Features: Beyond basic app development, I integrate services like Google Maps, Apple Maps, AdMob, Facebook SDK, Google Analytics, Google Cloud Platform, and payment gateways like Stripe, PayPal, and Braintree. Plus, I've integrated AI, notably ChatGPT, for dynamic content.
+🔹 Deployment: Deploying to the Google Play Store and Apple App Store is second nature to me, ensuring applications are guideline-compliant and optimized for visibility.
+
+🖥️ Database Development:
+🔹 Programming Languages: With PHP and JavaScript, I construct server-side solutions using Express for Node.js.
+🔹 Security: Data security is paramount. I use JWT tokens and advanced password hashing to ensure top-tier security.
+🔹 Database Management: MySQL and MongoDB are my forte, designing efficient, scalable database systems.
+🔹 API Development: I specialize in RESTful and GraphQL APIs, employing JSON for smooth data interchange.
+🔹 Platforms & Hosting: Firebase and Parse Platform empower me with functionalities like real-time databases and cloud messaging. I'm also adept at domain and cPanel management, ensuring a smooth transition from development to deployment.
 
 * 🌍  I'm based in Amman
 * 🖥️  See my portfolio at [MyPortfolio](http://abdharash.me)
