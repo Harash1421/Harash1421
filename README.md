@@ -58,7 +58,7 @@ Welcome to my profile! I'm a passionate Mobile and Back-End Developer, committed
 <b>My GitHub Stats</b>
 
 <p align="center">
-  <a href="http://www.github.com/Harash1421">
+  <a href="http://www.github.com/Harash1421" align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Harash1421&show_icons=true&hide=stars,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="Harash1421's GitHub stats" />
   </a>
   <a href="https://github.com/Harash1421">
