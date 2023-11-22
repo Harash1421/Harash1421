@@ -57,8 +57,13 @@ Welcome to my profile! I'm a passionate Mobile and Back-End Developer, committed
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Harash1421"><img src="https://github-readme-stats.vercel.app/api?username=Harash1421&show_icons=true&hide=stars,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="Harash1421's GitHub stats" /></a>
+<p align="center">
+  <a href="http://www.github.com/Harash1421">
+    <img src="https://github-readme-stats.vercel.app/api?username=Harash1421&show_icons=true&hide=stars,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="Harash1421's GitHub stats" />
+  </a>
+  <a href="https://github.com/Harash1421">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harash1421&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
+</p>
 
 <a href="http://www.github.com/Harash1421"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Harash1421&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Harash1421" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harash1421&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
