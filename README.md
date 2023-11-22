@@ -22,9 +22,9 @@ Welcome to my profile! I'm a passionate Mobile and Back-End Developer, committed
 
 ### 🌐 Personal Information:
 - 📍 Location: Amman
-<!-- 🔗 Portfolio: [MyPortfolio](http://abdharash.me) -->
 - 📧 Email: [abdulaziz.harash@hotmail.com](mailto:abdulaziz.harash@hotmail.com)
 - 🤝 Open to collaborations and building innovative projects.
+<!-- 🔗 Portfolio: [MyPortfolio](http://abdharash.me) -->
 
 ### Skills
 
