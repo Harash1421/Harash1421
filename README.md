@@ -21,7 +21,7 @@ Welcome to my profile! I'm a passionate Mobile and Back-End Developer, committed
 - **Hosting:** Experienced in Firebase, Parse Platform, domain, and cPanel management.
 
 ### 🌐 Personal Information:
-- 📍 Location: Amman
+- 📍 Location: United States
 - 📧 Email: [abdulaziz.harash@hotmail.com](mailto:abdulaziz.harash@hotmail.com)
 - 🤝 Open to collaborations and building innovative projects.
 <!-- 🔗 Portfolio: [MyPortfolio](http://abdharash.me) -->
